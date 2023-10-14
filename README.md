@@ -31,7 +31,7 @@ A simple Library Management System created using Java Swing.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/Rupesh-Kakde/Library-Management
    ```
 
 2. Compile the Java source code:
